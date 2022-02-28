@@ -5,7 +5,7 @@ I am a software engineer at [Optum](https://optum.com) who is passionate about s
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Jamstack (Javascript, APIs + Markdown)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy photography 📸
+- ⚡ Fun fact: I enjoy photography 📸 and I am learning Norwegian 🇳🇴 
 
 ## Find me around the web 🌍:
 [LinkedIn](https://www.linkedin.com/in/dierdre-p-88932/)
