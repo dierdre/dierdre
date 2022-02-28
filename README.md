@@ -1,6 +1,6 @@
 ### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
  
-I am a software engineer who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
+I am a software engineer at <a href="https://optum.com" style="color: orange; text-decoration: underline;text-decoration-style: dotted;">Optum</a> who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
 
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Jamstack (Javascript, APIs + Markdown)
@@ -11,6 +11,8 @@ I am a software engineer who is passionate about solving problems on salesforce.
 [LinkedIn](https://www.linkedin.com/in/dierdre-p-88932/)
 
 <!--
+
+[Optum](https://optum.com)
 **dierdre/dierdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
