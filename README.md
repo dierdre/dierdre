@@ -1,6 +1,6 @@
 ### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
  
-I am a software engineer at <a href="https://optum.com" style="color: orange; text-decoration: underline;text-decoration-style: dotted;">Optum</a> who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
+I am a software engineer at [Optum](https://optum.com) who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
 
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Jamstack (Javascript, APIs + Markdown)
