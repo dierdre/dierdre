@@ -1,9 +1,11 @@
-### Hi there 👋
-### I am a software engineer who is passionate about solving problems on the salesforce.com platoform, dbAmp, and MuleSoft. I am currently building out my README.md
+### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
+ 
+I am a software engineer who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
 
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Jamstack (Javascript, APIs + Markdown)
-- 😄 Pronouns: ... She/Her
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy photography 📸
 
 ## Find me around the web 🌍:
 [LinkedIn](https://www.linkedin.com/in/dierdre-p-88932/)
