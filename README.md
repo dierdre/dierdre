@@ -3,7 +3,7 @@
 I am a software engineer at [Optum](https://optum.com) who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
 
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
-- 🌱 I’m currently learning: Ruby, Raspberry Pi, Jamstack (Javascript, APIs + Markdown)
+- 🌱 I’m currently learning: Ruby, Raspberry Pi, Python, Jamstack (Javascript, APIs + Markdown)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy photography 📸, baking bread 🥖 and I am learning Norwegian 🇳🇴 
 
