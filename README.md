@@ -1,13 +1,13 @@
-### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
+#### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
  
-I am a software engineer at [Optum](https://optum.com) who is passionate about solving problems on salesforce.com, dbAmp, and MuleSoft. I am currently building out my README.md
+I am a software engineer at [Optum](https://optum.com) who is passionate about solving problems with technology. I am currently building out my README.md
 
-- 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft
+- 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft, and building out DevOps best practices
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Python, Jamstack (Javascript, APIs + Markdown)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy photography 📸, baking bread 🥖 and I am learning Norwegian 🇳🇴 
+- ⚡ Fun fact: I enjoy photography 📸, baking bread 🥖 and I am learning Norwegian 🇳🇴 & Spanish 🇲🇽 🇪🇸
 
-## Find me around the web 🌍:
+##### Find me around the web 🌍:
 [LinkedIn](https://www.linkedin.com/in/dierdre-p-88932/)
 
 <!--
