@@ -1,6 +1,6 @@
 #### Hi, I'm Dierdre 👋🏻 👩🏼‍💻
  
-I am a software engineer at [Optum](https://optum.com) who is passionate about solving problems with technology. I am currently building out my README.md
+I am a software architect and engineer at [Optum](https://optum.com) who is passionate about solving problems with technology. I am currently building out my README.md
 
 - 🔭 I’m currently working on: salesforce.com ☁️ , dbAmp, MuleSoft, and building out DevOps best practices
 - 🌱 I’m currently learning: Ruby, Raspberry Pi, Python, Jamstack (Javascript, APIs + Markdown)
