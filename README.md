@@ -10,9 +10,9 @@ My work spans designing scalable systems, building custom applications, and inte
 
 - **Salesforce Development & Architecture** – Apex, Lightning Web Components, automation, integrations  
 - **Python Development** – Data processing, scripting, backend services  
-<!-- - **IT & Network Management** – Infrastructure, security, performance optimization  -->
 - **Data & Reporting** – SQL, dashboards, analytics  
-- **Cross-functional Collaboration** – Bridging business needs with technical execution  
+- **Cross-functional Collaboration** – Bridging business needs with technical execution
+<!-- - **IT & Network Management** – Infrastructure, security, performance optimization  -->
 
 #### **Certifications**
 
